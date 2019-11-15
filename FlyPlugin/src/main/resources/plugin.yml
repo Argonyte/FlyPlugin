@@ -1,0 +1,10 @@
+name: FlyPlugin
+version: ${project.version}
+main: me.argonyte.flyplugin.FlyPlugin
+api-version: 1.13
+authors: [Argonyte]
+description: Simple Fly Plugin
+commands:
+  fly:
+    description: Fly command gives access to fly to the player.
+    usage: /<command>
